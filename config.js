@@ -15,27 +15,27 @@ AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
 AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Sʜᴀʙᴀɴ-Mᴅ 𓅓*",
 // set the auto reply massage on status reply
-WELCOME: process.env.WELCOME || "false",
+WELCOME: process.env.WELCOME || "true",
 // true if want welcome and goodbye msg in groups    
-ADMIN_EVENTS: process.env.ADMIN_EVENTS || "false",
+ADMIN_EVENTS: process.env.ADMIN_EVENTS || "true",
 // make true to know who dismiss or promoted a member in group  
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || "0",
 // add your prifix for bot
 MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
 // add custom menu and mention reply image url   
-BOT_NAME: process.env.BOT_NAME || "SHABAN-MD V5",
+BOT_NAME: process.env.BOT_NAME || "SUVO-KG",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "SHABAN-MD",
+STICKER_NAME: process.env.STICKER_NAME || "SUVO-KG",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
-DELETE_LINKS: process.env.DELETE_LINKS || "false",
+DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923059395959",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "919330353567",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "MR-SHABAN",
+OWNER_NAME: process.env.OWNER_NAME || "SUVO-KG",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Mʀ Sʜᴀʙᴀɴ*",
 // add bot owner name    
@@ -43,7 +43,7 @@ ALIVE_IMG: process.env.ALIVE_IMG || "https://ik.imagekit.io/mrshaban/Picsart_25-
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *SHABAN-MD*⚡",
 // add alive msg here 
-READ_MESSAGE: process.env.READ_MESSAGE || "false",
+READ_MESSAGE: process.env.READ_MESSAGE || "true",
 // Turn true or false for automatic read msgs
 AUTO_REACT: process.env.AUTO_REACT || "false",
 // make this true or false for auto react on all msgs
@@ -59,15 +59,15 @@ AUTO_STICKER: process.env.AUTO_STICKER || "false",
 // make true for automatic stickers 
 AUTO_REPLY: process.env.AUTO_REPLY || "false",
 // make true or false automatic text reply 
-ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
+ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "true",
 // maks true for always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
 // make false if want private mod
 AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
-READ_CMD: process.env.READ_CMD || "false",
+READ_CMD: process.env.READ_CMD || "true",
 // true if want mark commands as read 
-DEV: process.env.DEV || "923043788282",
+DEV: process.env.DEV || "919330353567",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "false",
 // true for anti once view
